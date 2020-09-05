@@ -16,12 +16,12 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   var _frases = [
-    "Frase 1",
-    "Frase 2",
-    "Frase 3",
-    "Frase 4",
-    "Frase 5",
-    "Frase 6"
+    "Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz.",
+    "O sucesso é um professor traiçoeiro. Ele seduz pessoas inteligentes e as faz pensar que elas não podem perder tudo.",
+    "Escolho uma pessoa preguiçosa para desenvolver um trabalho árduo. Por causa da preguiça, ela vai descobrir um meio simples de resolver o problema.",
+    "Se você acha que seu pai ou seu professor são rudes, espere até ter um chefe. Ele não terá pena de você.",
+    "Nunca se compare com ninguém neste mundo. Caso o faça, entenda que você estará insultando a si mesmo.",
+    "Se você quer ser bem-sucedido precisa de dedicação total, buscar seu último limite e dar o melhor de si mesmo"
   ];
 
   var _fraseDia = "Nova Frase";
